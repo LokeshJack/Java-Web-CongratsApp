@@ -2,7 +2,9 @@
 	<head>
 		<title>LOKI</title>
 	</head>
-<body>
+
+	<body>
+		<h1>Jenkins Works</h1>
 <h1>Congratulations You Have Successfully Deployed a loki banner in cloud version - 2</h1>
 <img src="image/loki.jpg" alt="logo"> 
 </body>
